@@ -19,6 +19,7 @@ ___
    escreva um programa na linguagem que desejar onde, informado um número, ele calcule
    a sequência de Fibonacci e retorne uma mensagem avisando se o número informado
    pertence ou não a sequência.
+   
 IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
 🚩[Resposta - código](Resposta_2.py)
