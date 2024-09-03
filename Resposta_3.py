@@ -7,7 +7,6 @@
 # a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 # b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
-
 import json
 
 
@@ -23,7 +22,6 @@ def processar_faturamento(arquivo_externo):
         return
 
     faturamento = [item["valor"] for item in dados if item["valor"] > 0]
-
 
     if not faturamento:
         print("Nenhum valor de faturamento disponível para processamento.")
