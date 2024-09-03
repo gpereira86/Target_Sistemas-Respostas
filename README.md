@@ -8,7 +8,7 @@ int INDICE = 13, SOMA = 0, K = 0;
 Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } Imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
 
-(Essa eu não tenho certeza se precisava de código, então eu fiz)
+Obs.: Essa eu não tenho certeza se precisava de código, então eu fiz.
 
 🚩[Resposta: 91 - código](Resposta_1.py)
 
@@ -35,7 +35,7 @@ IMPORTANTE:
 a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
-#### Obs.1: Comentário descartado ~~Eu não sabia se queriam com JSON no corpo do código ou externo, fiz a opção completa com os dois modelos~~ <br> Obs.2: ATUALIZAÇÃO: Em 03/09/2024 recebi da target através do campo de mensagens na Gupy os arquivos json e xml para utilizar no desafio. Por este motivo atualizei o código.
+#### Obs.1: Comentário descartado ~~Eu não sabia se queriam com JSON no corpo do código ou externo, fiz a opção completa com os dois modelos~~ <br> Obs.2: ATUALIZAÇÃO: Em 03/09/2024 recebi da target através do campo de mensagens na Gupy os arquivos json e xml para utilizar no desafio. Por este motivo atualizei o código. <br>
 
 
 🚩[Resposta - código](Resposta_3.py)
